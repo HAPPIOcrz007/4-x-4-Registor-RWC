@@ -4,7 +4,7 @@ A first-year B.Tech Digital Electronics project implementing a **4×4 register f
 The design supports synchronous clock-triggered write, tri-state bus-buffered read, and asynchronous active-low clear.  
 Fabricated as a **KiCad PCB (RAM-project-001)** and verified with discrete logic components.
 
-<img width="1182" height="1181" alt="sm_black_top" src="https://github.com/user-attachments/assets/7c3d3f21-c1f4-4416-a49a-ca6b9764e8e4" />
+<img width="300" height="300" alt="sm_black_top" src="https://github.com/user-attachments/assets/7c3d3f21-c1f4-4416-a49a-ca6b9764e8e4" />
 
 ---
 
