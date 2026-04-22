@@ -1,4 +1,4 @@
-# 4×4 Register File PCB — Read / Write / Asynchronous Clear
+# 4×4 Register PCB — Read / Write / Asynchronous Clear
 
 A first-year B.Tech Digital Electronics project implementing a **4×4 register file** using standard 74-series TTL ICs, progressing from Logisim simulation through breadboard prototyping to a fabricated KiCad PCB — verified live at the **Circuit Conclave Hackathon 2026, MIT World Peace University**.
 
