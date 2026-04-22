@@ -473,7 +473,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RAM-project-001.kicad_pro",
+    "filename": "4-x-4-Registor-RWC.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -510,7 +510,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../../../../../Downloads/k/",
+      "plot": "/home/cosmic/Downloads/Upload/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -676,8 +676,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "RAM-project-001.kicad_sch",
-        "name": "RAM-project-001",
+        "filename": "4-x-4-Registor-RWC.kicad_sch",
+        "name": "4-x-4-Registor-RWC",
         "uuid": "5eedfbfd-b515-41f7-bc46-93d5227dd1ca"
       }
     ],
